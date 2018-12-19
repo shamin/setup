@@ -24,8 +24,9 @@
 ## Terminal
 - iTerm2
   - Oh My Zsh
-    - Spaceship ZSH
-    - zsh-autosuggestions
+    - [Spaceship ZSH](https://github.com/denysdovhan/spaceship-prompt)
+    - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+    - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
 
 ## Desktop
 - Alfred

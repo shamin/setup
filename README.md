@@ -22,16 +22,16 @@
 - Pycharm
 
 ## Terminal
-- iTerm2
+- [iTerm2](https://www.iterm2.com/)
   - Oh My Zsh
     - [Spaceship ZSH](https://github.com/denysdovhan/spaceship-prompt)
     - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
     - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
 
 ## Desktop
-- Alfred
+- [Alfred](https://www.alfredapp.com/)
   - Workflows
-    - Bear
-    - Colors
-- Bear
-- Adobe XD
+    - [Bear](http://www.packal.org/workflow/bear)
+    - [Colors](http://www.packal.org/workflow/colors)
+- [Bear](https://bear.app/)
+- [Adobe XD](https://www.adobe.com/in/products/xd.html)
